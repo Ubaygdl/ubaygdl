@@ -2,7 +2,7 @@
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ubaygdl}1212%2Fhit-counter)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={ubaygdl})
+![](https://github-readme-activity-graph.cyclic.app/graph?username={ubaygdl}&theme={rogue})
 ![](https://github-readme-stats.vercel.app/api?username=ubaygdl&show_icons=true&locale=en)
 
 Me llamo Ubay, soy Ingeniero Radioelectronico Naval y actualmente estudio Master de profesorado.
