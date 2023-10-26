@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+Me llamo Ubay, soy Ingeniero Radioelectronico Naval y actualmente estudio Master de profesorado.
 ![](https://media2.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif?cid=ecf05e47fgffrd7ovai0472nqzog1jej09mwy81wo23zvfim&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <!--
