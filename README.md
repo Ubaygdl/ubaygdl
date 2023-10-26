@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://www.instagram.com/p/Ceqhb01NWMk/?utm_source=ig_web_copy_link)
+![](https://media2.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif?cid=ecf05e47fgffrd7ovai0472nqzog1jej09mwy81wo23zvfim&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <!--
 **Ubaygdl/ubaygdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
